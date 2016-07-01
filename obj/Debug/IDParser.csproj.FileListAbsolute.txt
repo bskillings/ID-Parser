@@ -1,0 +1,6 @@
+c:\users\becky\documents\visual studio 2015\Projects\IDParser\IDParser\bin\Debug\IDParser.exe.config
+c:\users\becky\documents\visual studio 2015\Projects\IDParser\IDParser\bin\Debug\IDParser.exe
+c:\users\becky\documents\visual studio 2015\Projects\IDParser\IDParser\bin\Debug\IDParser.pdb
+c:\users\becky\documents\visual studio 2015\Projects\IDParser\IDParser\obj\Debug\IDParser.csprojResolveAssemblyReference.cache
+c:\users\becky\documents\visual studio 2015\Projects\IDParser\IDParser\obj\Debug\IDParser.exe
+c:\users\becky\documents\visual studio 2015\Projects\IDParser\IDParser\obj\Debug\IDParser.pdb
